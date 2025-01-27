@@ -1,0 +1,388 @@
+[ {
+  "artist" : "John Brown's Body",
+  "title" : "New Fashion",
+  "duration" : 273266,
+  "playCount" : 0,
+  "spotifyPopularity" : 27,
+  "spotifyDanceability" : 0.649,
+  "spotifyEnergy" : 0.634,
+  "spotifyValence" : 0.741
+}, {
+  "artist" : "John Brown's Body",
+  "title" : "The Gold (Dubmatix Runnin' Remix)",
+  "duration" : 290000,
+  "playCount" : 0,
+  "spotifyPopularity" : 27,
+  "spotifyDanceability" : 0.812,
+  "spotifyEnergy" : 0.808,
+  "spotifyValence" : 0.243
+}, {
+  "artist" : "John Brown's Body",
+  "title" : "Give Yourself Over",
+  "duration" : 285600,
+  "playCount" : 0,
+  "spotifyPopularity" : 25,
+  "spotifyDanceability" : 0.687,
+  "spotifyEnergy" : 0.798,
+  "spotifyValence" : 0.869
+}, {
+  "artist" : "John Brown's Body",
+  "title" : "Garden Tree",
+  "duration" : 343160,
+  "playCount" : 0,
+  "spotifyPopularity" : 25,
+  "spotifyDanceability" : 0.707,
+  "spotifyEnergy" : 0.763,
+  "spotifyValence" : 0.702
+}, {
+  "artist" : "John Brown's Body",
+  "title" : "High Grade",
+  "duration" : 241680,
+  "playCount" : 0,
+  "spotifyPopularity" : 24,
+  "spotifyDanceability" : 0.718,
+  "spotifyEnergy" : 0.715,
+  "spotifyValence" : 0.804
+}, {
+  "artist" : "John Brown's Body",
+  "title" : "Pure Fire (Disco Mix)",
+  "duration" : 312626,
+  "playCount" : 0,
+  "spotifyPopularity" : 22,
+  "spotifyDanceability" : 0.755,
+  "spotifyEnergy" : 0.663,
+  "spotifyValence" : 0.613
+}, {
+  "artist" : "The Gunpoets",
+  "title" : "Make You Happy",
+  "duration" : 222958,
+  "playCount" : 0,
+  "spotifyPopularity" : 8,
+  "spotifyDanceability" : 0.739,
+  "spotifyEnergy" : 0.716,
+  "spotifyValence" : 0.749
+}, {
+  "artist" : "Death Valley Girls",
+  "title" : "Wear Black",
+  "duration" : 182066,
+  "playCount" : 0,
+  "spotifyPopularity" : 21,
+  "spotifyDanceability" : 0.299,
+  "spotifyEnergy" : 0.97,
+  "spotifyValence" : 0.558
+}, {
+  "artist" : "Death Valley Girls",
+  "title" : "Unzip Your Forehead",
+  "duration" : 224933,
+  "playCount" : 0,
+  "spotifyPopularity" : 18,
+  "spotifyDanceability" : 0.308,
+  "spotifyEnergy" : 0.793,
+  "spotifyValence" : 0.365
+}, {
+  "artist" : "Death Valley Girls",
+  "title" : "Abre Camino",
+  "duration" : 282853,
+  "playCount" : 0,
+  "spotifyPopularity" : 20,
+  "spotifyDanceability" : 0.223,
+  "spotifyEnergy" : 0.715,
+  "spotifyValence" : 0.275
+}, {
+  "artist" : "Death Valley Girls",
+  "title" : "Death Valley Boogie",
+  "duration" : 153506,
+  "playCount" : 0,
+  "spotifyPopularity" : 14,
+  "spotifyDanceability" : 0.154,
+  "spotifyEnergy" : 0.93,
+  "spotifyValence" : 0.26
+},{
+  "artist" : "John Brown's Body",
+  "title" : "Resonate",
+  "duration" : 247693,
+  "playCount" : 0,
+  "spotifyPopularity" : 40,
+  "spotifyDanceability" : 0.772,
+  "spotifyEnergy" : 0.545,
+  "spotifyValence" : 0.756
+}, {
+  "artist" : "John Brown's Body",
+  "title" : "Traveling Man",
+  "duration" : 344173,
+  "playCount" : 0,
+  "spotifyPopularity" : 34,
+  "spotifyDanceability" : 0.554,
+  "spotifyEnergy" : 0.73,
+  "spotifyValence" : 0.625
+}, {
+  "artist" : "John Brown's Body",
+  "title" : "Plantation",
+  "duration" : 354186,
+  "playCount" : 0,
+  "spotifyPopularity" : 31,
+  "spotifyDanceability" : 0.681,
+  "spotifyEnergy" : 0.77,
+  "spotifyValence" : 0.713
+}, {
+  "artist" : "John Brown's Body",
+  "title" : "Who Paid Them Off?",
+  "duration" : 279466,
+  "playCount" : 0,
+  "spotifyPopularity" : 29,
+  "spotifyDanceability" : 0.674,
+  "spotifyEnergy" : 0.661,
+  "spotifyValence" : 0.735
+},{
+  "artist" : "The Gunpoets",
+  "title" : "Goodbye - Sim Redmond Band Remix",
+  "duration" : 192151,
+  "playCount" : 0,
+  "spotifyPopularity" : 6,
+  "spotifyDanceability" : 0.597,
+  "spotifyEnergy" : 0.618,
+  "spotifyValence" : 0.498
+}, {
+  "artist" : "The Gunpoets",
+  "title" : "8 Track Mind",
+  "duration" : 244333,
+  "playCount" : 0,
+  "spotifyPopularity" : 4,
+  "spotifyDanceability" : 0.861,
+  "spotifyEnergy" : 0.765,
+  "spotifyValence" : 0.806
+}, {
+  "artist" : "The Gunpoets",
+  "title" : "In the Dark",
+  "duration" : 226961,
+  "playCount" : 0,
+  "spotifyPopularity" : 5,
+  "spotifyDanceability" : 0.737,
+  "spotifyEnergy" : 0.665,
+  "spotifyValence" : 0.504
+}, {
+  "artist" : "The Gunpoets",
+  "title" : "Beautiful People",
+  "duration" : 341680,
+  "playCount" : 0,
+  "spotifyPopularity" : 2,
+  "spotifyDanceability" : 0.662,
+  "spotifyEnergy" : 0.714,
+  "spotifyValence" : 0.581
+}, {
+  "artist" : "The Gunpoets",
+  "title" : "Biggie K - Donna The Buffalo Remix",
+  "duration" : 131930,
+  "playCount" : 0,
+  "spotifyPopularity" : 2,
+  "spotifyDanceability" : 0.713,
+  "spotifyEnergy" : 0.733,
+  "spotifyValence" : 0.642
+}, {
+  "artist" : "The Gunpoets",
+  "title" : "Open My Eyes",
+  "duration" : 239186,
+  "playCount" : 0,
+  "spotifyPopularity" : 2,
+  "spotifyDanceability" : 0.689,
+  "spotifyEnergy" : 0.636,
+  "spotifyValence" : 0.86
+}, {
+  "artist" : "The Gunpoets",
+  "title" : "Come With Us",
+  "duration" : 266268,
+  "playCount" : 0,
+  "spotifyPopularity" : 3,
+  "spotifyDanceability" : 0.765,
+  "spotifyEnergy" : 0.822,
+  "spotifyValence" : 0.843
+}, {
+  "artist" : "Sim Redmond Band",
+  "title" : "Pink Guitar",
+  "duration" : 223160,
+  "playCount" : 0,
+  "spotifyPopularity" : 13,
+  "spotifyDanceability" : 0.639,
+  "spotifyEnergy" : 0.6,
+  "spotifyValence" : 0.429
+}, {
+  "artist" : "Sim Redmond Band",
+  "title" : "All Is Not Lost",
+  "duration" : 407680,
+  "playCount" : 0,
+  "spotifyPopularity" : 12,
+  "spotifyDanceability" : 0.526,
+  "spotifyEnergy" : 0.744,
+  "spotifyValence" : 0.677
+}, {
+  "artist" : "Sim Redmond Band",
+  "title" : "Save Me",
+  "duration" : 295866,
+  "playCount" : 0,
+  "spotifyPopularity" : 10,
+  "spotifyDanceability" : 0.475,
+  "spotifyEnergy" : 0.623,
+  "spotifyValence" : 0.375
+}, {
+  "artist" : "Sim Redmond Band",
+  "title" : "All I Ever Want",
+  "duration" : 239520,
+  "playCount" : 0,
+  "spotifyPopularity" : 10,
+  "spotifyDanceability" : 0.677,
+  "spotifyEnergy" : 0.565,
+  "spotifyValence" : 0.791
+}, {
+  "artist" : "Sim Redmond Band",
+  "title" : "Breakdown",
+  "duration" : 237026,
+  "playCount" : 0,
+  "spotifyPopularity" : 9,
+  "spotifyDanceability" : 0.659,
+  "spotifyEnergy" : 0.717,
+  "spotifyValence" : 0.462
+}, {
+  "artist" : "Sim Redmond Band",
+  "title" : "Nothing I Can Do",
+  "duration" : 271573,
+  "playCount" : 0,
+  "spotifyPopularity" : 9,
+  "spotifyDanceability" : 0.703,
+  "spotifyEnergy" : 0.644,
+  "spotifyValence" : 0.778
+}, {
+  "artist" : "The Blind Spots",
+  "title" : "Trampoline",
+  "duration" : 193293,
+  "playCount" : 0,
+  "spotifyPopularity" : 5,
+  "spotifyDanceability" : 0.464,
+  "spotifyEnergy" : 0.693,
+  "spotifyValence" : 0.522
+}, {
+  "artist" : "The Blind Spots",
+  "title" : "Bliss Seeker",
+  "duration" : 169586,
+  "playCount" : 0,
+  "spotifyPopularity" : 2,
+  "spotifyDanceability" : 0.652,
+  "spotifyEnergy" : 0.741,
+  "spotifyValence" : 0.696
+}, {
+  "artist" : "Sim Redmond Band",
+  "title" : "Life Is Water",
+  "duration" : 232053,
+  "playCount" : 0,
+  "spotifyPopularity" : 32,
+  "spotifyDanceability" : 0.539,
+  "spotifyEnergy" : 0.615,
+  "spotifyValence" : 0.472
+}, {
+  "artist" : "Sim Redmond Band",
+  "title" : "Hurricane",
+  "duration" : 361173,
+  "playCount" : 0,
+  "spotifyPopularity" : 20,
+  "spotifyDanceability" : 0.334,
+  "spotifyEnergy" : 0.498,
+  "spotifyValence" : 0.381
+}, {
+  "artist" : "Sim Redmond Band",
+  "title" : "Holes In The Ground",
+  "duration" : 316986,
+  "playCount" : 0,
+  "spotifyPopularity" : 16,
+  "spotifyDanceability" : 0.547,
+  "spotifyEnergy" : 0.581,
+  "spotifyValence" : 0.483
+}, {
+  "artist" : "Death Valley Girls",
+  "title" : "Disaster (Is What Weâ€™re After)",
+  "duration" : 217866,
+  "playCount" : 0,
+  "spotifyPopularity" : 28,
+  "spotifyDanceability" : 0.372,
+  "spotifyEnergy" : 0.905,
+  "spotifyValence" : 0.401
+}, {
+  "artist" : "Death Valley Girls",
+  "title" : "More Dead",
+  "duration" : 155973,
+  "playCount" : 0,
+  "spotifyPopularity" : 23,
+  "spotifyDanceability" : 0.437,
+  "spotifyEnergy" : 0.746,
+  "spotifyValence" : 0.325
+}, {
+  "artist" : "Death Valley Girls",
+  "title" : "Disco",
+  "duration" : 195333,
+  "playCount" : 0,
+  "spotifyPopularity" : 19,
+  "spotifyDanceability" : 0.332,
+  "spotifyEnergy" : 0.9,
+  "spotifyValence" : 0.741
+}, {
+  "artist" : "Death Valley Girls",
+  "title" : "(One Less Thing) Before I Die",
+  "duration" : 96333,
+  "playCount" : 0,
+  "spotifyPopularity" : 20,
+  "spotifyDanceability" : 0.319,
+  "spotifyEnergy" : 0.895,
+  "spotifyValence" : 0.27
+},{
+  "artist" : "Sim Redmond Band",
+  "title" : "Good Thoughts",
+  "duration" : 449866,
+  "playCount" : 0,
+  "spotifyPopularity" : 20,
+  "spotifyDanceability" : 0.626,
+  "spotifyEnergy" : 0.539,
+  "spotifyValence" : 0.521
+},{
+  "artist" : "The Blind Spots",
+  "title" : "Yin Yang Boomerang",
+  "duration" : 175533,
+  "playCount" : 0,
+  "spotifyPopularity" : 3,
+  "spotifyDanceability" : 0.593,
+  "spotifyEnergy" : 0.742,
+  "spotifyValence" : 0.607
+}, {
+  "artist" : "The Blind Spots",
+  "title" : "Hey Boy",
+  "duration" : 236031,
+  "playCount" : 0,
+  "spotifyPopularity" : 9,
+  "spotifyDanceability" : 0.73,
+  "spotifyEnergy" : 0.64,
+  "spotifyValence" : 0.547
+}, {
+  "artist" : "The Blind Spots",
+  "title" : "Where Are the Monsters",
+  "duration" : 212853,
+  "playCount" : 0,
+  "spotifyPopularity" : 2,
+  "spotifyDanceability" : 0.399,
+  "spotifyEnergy" : 0.46,
+  "spotifyValence" : 0.144
+}, {
+  "artist" : "The Blind Spots",
+  "title" : "Big Red Button",
+  "duration" : 217386,
+  "playCount" : 0,
+  "spotifyPopularity" : 2,
+  "spotifyDanceability" : 0.489,
+  "spotifyEnergy" : 0.676,
+  "spotifyValence" : 0.397
+}, {
+  "artist" : "The Blind Spots",
+  "title" : "New Persona",
+  "duration" : 219960,
+  "playCount" : 0,
+  "spotifyPopularity" : 4,
+  "spotifyDanceability" : 0.735,
+  "spotifyEnergy" : 0.608,
+  "spotifyValence" : 0.64
+}] 

@@ -1,0 +1,28 @@
+[ {
+  "artist" : "John Brown's Body",
+  "title" : "New Fashion",
+  "duration" : 273266,
+  "playCount" : 0,
+  "spotifyPopularity" : 27,
+  "spotifyDanceability" : 0.649,
+  "spotifyEnergy" : 0.634,
+  "spotifyValence" : 0.741
+}, {
+  "artist" : "John Brown's Body",
+  "title" : "The Gold (Dubmatix Runnin' Remix)",
+  "duration" : 290000,
+  "playCount" : 0,
+  "spotifyPopularity" : 27,
+  "spotifyDanceability" : 0.812,
+  "spotifyEnergy" : 0.808,
+  "spotifyValence" : 0.243
+}, {
+  "artist" : "John Brown's Body",
+  "title" : "Give Yourself Over",
+  "duration" : 285600,
+  "playCount" : 0,
+  "spotifyPopularity" : 25,
+  "spotifyDanceability" : 0.687,
+  "spotifyEnergy" : 0.798,
+  "spotifyValence" : 0.869
+}]
